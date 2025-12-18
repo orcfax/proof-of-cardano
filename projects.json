@@ -16,7 +16,7 @@
     {"title": "SIDAN Lab", "owner": "sidan-lab"},
     {"title": "DeltaDeFi", "owner": "deltadefi-protocol"},
     {"title": "Marlowe", "owner": "input-output-hk", "names": ["marlowe-cardano"]},
-    {"title": "Cardano Node", "owner": "IntersectMBO", "names": ["cardano-node"]},
+    {"title": "Cardano Node", "owner": "IntersectMBO", "names": ["cardano-node", "cardano-api", "ouroboros-consensus", "ouroboros-network", "cardano-ledger", "cardano-base"]},
     {"title": "Daedalus", "owner": "input-output-hk", "names": ["daedalus"]},
     {"title": "Catalyst", "owner": "input-output-hk", "names": ["catalyst-voices", "hermes", "catalyst-ci", "catalyst-libs", "catalyst-forge", "jormungandr"]},
     {"title": "Hydra", "owner": "input-output-hk", "names": ["hydra"]},
