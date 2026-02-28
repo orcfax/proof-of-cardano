@@ -89,6 +89,7 @@
     {"title": "Scalus", "owner": "scalus3", "names": ["scalus"]},
     {"title": "Lace", "owner": "input-output-hk", "names": ["lace"]},
     {"title": "PaylKoyn", "owner": "SAIB-Inc", "names": ["paylkoyn"]},
-    {"title": "Evolution SDK", "owner": "no-witness-labs", "names": ["evolution-sdk"]}
+    {"title": "Evolution SDK", "owner": "no-witness-labs", "names": ["evolution-sdk"]},
+    {"title": "Amaru", "owner": "pragma-org", "names": ["amaru", "uplc"]}
   ]
 }
